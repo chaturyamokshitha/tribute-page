@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: #ffe6a7;
+}
+h1{
+    color:#540b0e;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+h2{
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top:2mm;
+}
+#life{
+    font-size: 30px;
+    text-decoration: underline;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    padding:10px;
+    border:5px solid black;
+    background-color: #e09f3e;
+
+}
+
+ul{
+    text-align: center;
+}
